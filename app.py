@@ -480,7 +480,7 @@ def main():
     st.markdown("---")
     st.markdown("""
     <div style="text-align: center; color: #666; padding: 1rem;">
-        Made with ❤️ using Streamlit |
+        Made with ❤️ by Adnan Akram |
         <a href="https://llmstxt.org/" target="_blank">Learn more about LLMS.txt</a>
     </div>
     """, unsafe_allow_html=True)
